@@ -31,7 +31,7 @@ width:30vw;
 .image{
     height: 30vw;
     width: 40vw;
-    background: url('/portfolio_image.png');
+    background: url('portfolio_image.png');
     background-position: center;
     background-size: top;
     background-color:#1E1AD3;
@@ -338,7 +338,7 @@ a:active{
   height: 100vw;
   width: auto;
   margin-top: 40px;
-  background: url('/portfolio_image.png');
+  background: url('portfolio_image.png');
   background-position: center;
   background-size: top;
   background-color:#1E1AD3;
