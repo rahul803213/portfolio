@@ -244,6 +244,7 @@ a:active{
   
 
   .menu_list {
+display:none;
       margin-top: 30px; /* Reduce margin for menu items */
   }
 
